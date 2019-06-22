@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GridPic</string>
+    <string-array name="Choices">
+        <item>Take photo</item>
+        <item>Chose photo</item>
+        <item>Random cat</item>
+        <item>Clear</item>
+    </string-array>
+</resources>
